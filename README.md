@@ -18,6 +18,8 @@ Author: Liza Gribova
 ## Implemented algorithms:
 #### Binary search.
 Path: lib/algorithms/binary-search
+#### Dynamic connectivity problem.
+Path: lib/algorithms/dynamic-connectivity
     
 ## Implemented data structures:
 None
