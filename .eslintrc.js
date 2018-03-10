@@ -13,6 +13,7 @@ module.exports = {
         "linebreak-style": 0,
         "no-param-reassign": 0,
         "arrow-parens": 0,
-        "max-len": [2, {"code": 150, "tabWidth": 4, "ignoreStrings": true}]
+        "max-len": [2, {"code": 150, "tabWidth": 4, "ignoreStrings": true}],
+        "no-else-return": 0
     }
 };
