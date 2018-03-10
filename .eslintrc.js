@@ -14,6 +14,7 @@ module.exports = {
         "no-param-reassign": 0,
         "arrow-parens": 0,
         "max-len": [2, {"code": 150, "tabWidth": 4, "ignoreStrings": true}],
-        "no-else-return": 0
+        "no-else-return": 0,
+        "no-sparse-arrays": 0,
     }
 };
