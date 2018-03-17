@@ -22,7 +22,12 @@ Path: lib/algorithms/binary-search
 Path: lib/algorithms/dynamic-connectivity
     
 ## Implemented data structures:
-None
+#### Queue
+Path: lib/data-structures/queue
+#### Stack.
+Path: lib/data-structures/stack
+#### Linked list.
+Path: lib/data-structures/linked-list
 
 ## Test
 To run tests use next command: `npm test path/to/folder/or/file` (e.g. Use `npm test lib` to run all tests for all algorithms and data structures)
