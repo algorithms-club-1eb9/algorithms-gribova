@@ -3,6 +3,7 @@ const DCP = require('./lib/algorithms/dynamic-connectivity-problem');
 const Stack = require('./lib/data-strucrutes/stack');
 const Queue = require('./lib/data-strucrutes/queue');
 const LinkedList = require('./lib/data-strucrutes/linked-list');
+const shellSorting = require('./lib/algorithms/sorting/shell-sorting');
 
 
 getUniqueItem = function getUniqueItem(count, notEqual) {
@@ -17,4 +18,5 @@ module.exports = {
     Queue,
     LinkedList,
     getUniqueItem,
+    shellSorting,
 };
